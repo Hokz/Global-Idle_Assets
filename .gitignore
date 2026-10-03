@@ -1,0 +1,12 @@
+# Local extraction / staging
+_work/
+_extract/
+*.tmp
+
+# Raw archives are staged through an explicit binary/LFS workflow only
+*.rar
+*.zip
+
+# OS/editor
+.DS_Store
+Thumbs.db
