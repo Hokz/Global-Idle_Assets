@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "sourcePackage": "example-only",
+  "sha256": "replace-after-private-ingestion",
+  "visibilityAtIngestion": "private",
+  "purpose": "development reference only",
+  "distribution": "forbidden"
+}

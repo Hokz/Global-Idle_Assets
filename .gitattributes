@@ -1,0 +1,2 @@
+# Raw binary reference material belongs in Git LFS when this repository is private.
+raw/** filter=lfs diff=lfs merge=lfs -text
