@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "sourcePackageSha256": "f5ceaaae4736b389ca885b6f1fb832a2dbe2ec857d9ba5f32ed8a65933934bc1",
+  "appearanceCounts": {
+    "object": 39221,
+    "outfit": 1375,
+    "effect": 179,
+    "missile": 60
+  },
+  "namedAppearances": 8482,
+  "spriteSheetCount": 5334,
+  "spriteReferences": 295960,
+  "unresolvedSpriteReferences": 0,
+  "minimapSectorFiles": 2116,
+  "sourceFileCount": 9579,
+  "sourceBytes": 266629138,
+  "topLevelCounts": {
+    "assets": 7002,
+    "assets.json": 1,
+    "assets.json.sha256": 1,
+    "characterdata": 398,
+    "conf": 2,
+    "minimap": 2118,
+    "storeimages": 57
+  },
+  "catalogPolicy": {
+    "characterdata": "excluded from semantic asset ingestion: player-local state, not a game asset",
+    "gameplayAuthority": "none: this is reference/provenance metadata only",
+    "unknownFields": "preserve/ignore; never guess into gameplay semantics"
+  }
+}
