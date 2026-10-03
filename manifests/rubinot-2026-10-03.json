@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "sourcePackage": "RubinOT(2).rar",
+  "sourcePackageSha256": "f5ceaaae4736b389ca885b6f1fb832a2dbe2ec857d9ba5f32ed8a65933934bc1",
+  "sourcePackageBytes": 246958450,
+  "extractedBytesObserved": 266629138,
+  "archiveEntriesObserved": 9632,
+  "cataloguedAt": "2026-10-03",
+  "referenceOnly": true,
+  "topLevel": {
+    "assets": {"files": 7002, "bytes": 251233574},
+    "minimap": {"files": 2118, "bytes": 12812625},
+    "storeimages": {"files": 57, "bytes": 137226},
+    "conf": {"files": 2, "bytes": 283070},
+    "characterdata": {"files": 398, "bytes": 92533, "semanticCatalog": false}
+  },
+  "keyFiles": {
+    "assets.json": {
+      "bytes": 2070046,
+      "sha256": "2079b6c414a2b783670d305d61ff081bdd6be0d79980af11266e88104450796d"
+    },
+    "assets/catalog-content.json": {
+      "bytes": 1210848,
+      "sha256": "8c1414502c89e8e4c073923f38c0c033e1335c903406b6a5265d44255983e54e"
+    },
+    "assets/appearances-57c46b9a61031c22138ce434ba1ae9147a58fc268d7da01969bb1e573e5a7a4e.dat": {
+      "bytes": 4664546,
+      "sha256": "c15ff47981930f4abba02b91ca2153b96234abd885facec2c9152a08a2230c95"
+    }
+  },
+  "catalogContent": {
+    "spriteSheets": 5334,
+    "appearancesFiles": 1,
+    "staticDataFiles": 1,
+    "staticMapDataFiles": 1,
+    "mapFiles": 1
+  },
+  "appearances": {
+    "objects": 39221,
+    "outfits": 1375,
+    "effects": 179,
+    "missiles": 60
+  },
+  "minimap": {
+    "pngFilesParsed": 2116,
+    "colorFiles": 1054,
+    "waypointCostFiles": 1062,
+    "zMin": 0,
+    "zMax": 15
+  }
+}
